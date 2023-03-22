@@ -1,0 +1,31 @@
+Tempo que o carro leva para percorrer 100 km:
+Tempo = distância / velocidade
+Tempo = 100 / 110
+Tempo = 0,9091 horas
+Tempo = 54,54 minutos
+
+Tempo que o caminhão leva para percorrer 100 km:
+Tempo = distância / velocidade
+Tempo = 100 / 80
+Tempo = 1,25 horas
+Tempo = 75 minutos
+
+Tempo adicional que o caminhão leva para passar pelos dois pedágios:
+Tempo = 2 * 5 minutos
+Tempo = 10 minutos
+
+Tempo total que o caminhão leva para chegar ao ponto de encontro:
+Tempo = 75 + 10
+Tempo = 85 minutos
+
+Distância entre Ribeirão Preto e o ponto de encontro:
+Distância = (velocidade do carro + velocidade do caminhão) * tempo de encontro
+Distância = (110 + 80) * (85 / 60)
+Distância = 190 * 1,4167
+Distância = 269,17 km
+
+Distância entre o ponto de encontro e Ribeirão Preto:
+Distância = 100 - (269,17 / 2)
+Distância = 60,92 km
+
+Dessa forma, quando o carro e o caminhão se cruzarem na rodovia, eles estarão a aproximadamente 60,92 km de Ribeirão Preto. Eles estarão à mesma distância da cidade de origem um do outro.
